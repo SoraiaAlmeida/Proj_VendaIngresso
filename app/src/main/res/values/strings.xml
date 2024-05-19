@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Proj_VendaIngresso</string>
+    <string name="codigo_ingresso">Código do Ingresso</string>
+    <string name="valor_ingresso">Valor do Ingresso</string>
+    <string name="taxa_conveniencia">Taxa de Conveniência</string>
+    <string name="funcao_vip">Função (VIP)</string>
+    <string name="checkbox_vip">Ingresso VIP</string>
+    <string name="button_comprar">Comprar</string>
+    <string name="detalhes_compra">Detalhes da Compra</string>
+    <string name="button_voltar">Voltar</string>
+    <string name="detalhes_codigo">Código: </string>
+    <string name="detalhes_valor_final">Valor Final: </string>
+    <string name="detalhes_funcao">Função: </string>
+</resources>
